@@ -1,4 +1,4 @@
-# Implementation-of-Transfer-Learning
+![Screenshot 2025-04-27 210123](https://github.com/user-attachments/assets/ed6f87aa-1b15-4029-b4dd-428b935ba32f)# Implementation-of-Transfer-Learning
 ## Aim
 To Implement Transfer Learning for classification using VGG-19 architecture.
 ## Problem Statement and Dataset
@@ -72,10 +72,10 @@ def train_model(model, train_loader,test_loader,num_epochs=10):
 
 ## OUTPUT
 ### Training Loss, Validation Loss Vs Iteration Plot
-Include your plot here
-</br>
-</br>
-</br>
+![Screenshot 2025-04-27 205002](https://github.com/user-attachments/assets/d95ef8f2-036a-4809-a7a0-ad19fddff64d)
+
+![Screenshot 2025-04-27 210059](https://github.com/user-attachments/assets/82a1e7f8-496a-41e9-b35f-863cd5796651)
+
 
 ### Confusion Matrix
 Include confusion matrix here
@@ -84,17 +84,12 @@ Include confusion matrix here
 </br>
 
 ### Classification Report
-Include Classification Report here
-</br>
-</br>
-</br>
 
 ### New Sample Prediction
-</br>
-</br>
-</br>
+![Screenshot 2025-04-27 210118](https://github.com/user-attachments/assets/8c7f07fd-64ad-4293-bd43-9fdf1f6c5bee)
+![Screenshot 2025-04-27 210123](https://github.com/user-attachments/assets/e4771bc0-0d7e-42b4-a5ac-ac3c42adb824)
+
+
 
 ## RESULT
-</br>
-</br>
-</br>
+The VGG-19 model was successfully trained and optimized to classify defected and non-defected capacitors.
