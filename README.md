@@ -78,12 +78,9 @@ def train_model(model, train_loader,test_loader,num_epochs=10):
 
 
 ### Confusion Matrix
-Include confusion matrix here
-</br>
-</br>
-</br>
+![image](https://github.com/user-attachments/assets/9d447129-3a86-42d9-be59-85d01670caf0)
 
-### Classification Report
+
 
 ### New Sample Prediction
 ![Screenshot 2025-04-27 210118](https://github.com/user-attachments/assets/8c7f07fd-64ad-4293-bd43-9fdf1f6c5bee)
