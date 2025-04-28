@@ -1,4 +1,4 @@
-![Screenshot 2025-04-27 210123](https://github.com/user-attachments/assets/ed6f87aa-1b15-4029-b4dd-428b935ba32f)# Implementation-of-Transfer-Learning
+# Implementation-of-Transfer-Learning
 ## Aim
 To Implement Transfer Learning for classification using VGG-19 architecture.
 ## Problem Statement and Dataset
